@@ -1,5 +1,6 @@
 # calendar_backend
 
+For Ketan - 
 1. Download and extract zip
 2. Change application.properties - Just change your root password of Database
 3. Run locally
